@@ -76,8 +76,8 @@ for(let i = 0;i < 5; i++){
 
 
 //Stampa il risultato
-//console.log("Numeri Originali : " + numeri.join(", "));
-//console.log("Numeri Raddoppiati : " + numeriRaddoppiati.join(", "));
+console.log("Numeri Originali : " + numeri.join(", "));
+console.log("Numeri Raddoppiati : " + numeriRaddoppiati.join(", "));
 
 
 //Esercizio 1.
@@ -97,7 +97,7 @@ let risultati = [];
 
 
 //ciclo for 9 volte
-/*
+
 for (let i = 0; i < 9; i++){
 
     //chiedo all utente i 9 numeri
@@ -114,12 +114,12 @@ for (let i = 0; i < 9; i++){
 
     }
 }
-*/
+
 
 //stampa risultato
 
-//console.log("Numeri Inseriti : " + num.join(", "));
-//console.log("Numeri Raddoppiati : " + risultati.join(", "));
+console.log("Numeri Inseriti : " + num.join(", "));
+console.log("Numeri Raddoppiati : " + risultati.join(", "));
 
 
 
@@ -152,8 +152,8 @@ for(let i = 0;i < 5; i++){
 }
 
 //stampo i risultati
-//console.log("Numeri casuali : " + numeriCasuali.join(", "));
-//console.log("Numeri doppi : " + numeriDoppi.join(", "));
+console.log("Numeri casuali : " + numeriCasuali.join(", "));
+console.log("Numeri doppi : " + numeriDoppi.join(", "));
 
 
 
