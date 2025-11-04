@@ -49,11 +49,11 @@ for(let i = 0; i < 10; i++){
 let media = somma / numeri.length;
 
 //stampo i risultati
-//console.log("Numeri generati : "+ numeri.join(", "));
-//console.log("Numeri doppi : "+ numeriDoppi.join(", "));
-//console.log("Numeri pari : " + pari);
-//console.log("Numeri dispari : " + dispari);
-//console.log("Media dei numeri : " + media.toFixed(2)); //toFixed(2) -> numeri dopo la virgola, 2
+console.log("Numeri generati : "+ numeri.join(", "));
+console.log("Numeri doppi : "+ numeriDoppi.join(", "));
+console.log("Numeri pari : " + pari);
+console.log("Numeri dispari : " + dispari);
+console.log("Media dei numeri : " + media.toFixed(2)); //toFixed(2) -> numeri dopo la virgola, 2
 
 
 
