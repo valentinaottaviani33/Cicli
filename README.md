@@ -25,4 +25,4 @@
 👩🏻‍💻
 
 ```
-Avviare Golive su VSCode e aprire il DevTools su Google Chrome
+Avviare Golive su VSCode
